@@ -30,7 +30,7 @@ Cerebral Conundrum is an engaging puzzle game that challenges players' logical t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Cerebral-Conundrum.git
+   git clone https://github.com/SHIV000000/Cerebral-Conundrum.git
    ```
 
 Certainly! Below is an example README file for a hypothetical game named "Cerebral Conundrum." Feel free to customize it based on the specific details and features of your game.
