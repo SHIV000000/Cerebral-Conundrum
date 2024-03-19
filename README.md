@@ -35,8 +35,6 @@ Cerebral Conundrum is an engaging puzzle game that challenges players' logical t
 
 Certainly! Below is an example README file for a hypothetical game named "Cerebral Conundrum." Feel free to customize it based on the specific details and features of your game.
 
-markdown
-Copy code
 # Cerebral Conundrum
 
 ## Overview
